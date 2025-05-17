@@ -1,4 +1,4 @@
-#instalacion https://github.com/maximiliano-di-natale/48764....git
+# Readme
 El proposito de este proyecto es que define la sintaxis de un lenguaje de programación muy simple, que permite escribir funciones con tipos básicos (int, float, char), parámetros, y un cuerpo que contiene solo instrucciones return con expresiones aritméticas.
 Mostremos los pasos para poder acceder al proyecto y como poder usar el programa..:
 Primero deberemos tenes el rpograma visual estudio code.
@@ -25,6 +25,8 @@ Paso 4:
 Ahora una vezhecho todo esto, quedaria verificar si quedo todo correcto ejecutando el siguiente codigo en la terminal dentro de visual estudios:npm start
 Esto nos mostrara si la entrada aplicada en imput.txt es valida.
 ![imagen](https://github.com/user-attachments/assets/acd10045-5d50-4ba5-8e6a-5c8ce6011607)
+## Instalacion
+https://github.com/maximiliano-di-natale/48764....git
 
 
 
