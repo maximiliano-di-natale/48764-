@@ -26,7 +26,7 @@ Ahora una vezhecho todo esto, quedaria verificar si quedo todo correcto ejecutan
 Esto nos mostrara si la entrada aplicada en imput.txt es valida.
 ![imagen](https://github.com/user-attachments/assets/acd10045-5d50-4ba5-8e6a-5c8ce6011607)
 ## Instalacion
-Clona este repositorio: git clone https://github.com/maximiliano-di-natale/48764....git
+Clona este repositorio: https://github.com/maximiliano-di-natale/48764-.git
 
 
 
